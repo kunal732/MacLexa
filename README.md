@@ -15,8 +15,8 @@ ___
 ---
 ##Getting Started
 ###Just want the Binary?
-Skip all the instructions below and just download the binary. I believe you still [need an Alexa account](alexa.amazon.com). [Download the binary](binary/HackathonAlexa.app)
- 
+Skip all the instructions below. Clone the repo and run the app in the Binary Folder. I believe you still [need an Alexa account](alexa.amazon.com).
+
 ###Amazon Developer Account
 1. Create an account at developer.amazon.com
 2. Follow the [getting started guide](https://developer.amazon.com/appsandservices/solutions/alexa/alexa-voice-service/getting-started-with-the-alexa-voice-service) for Amazon Voice Service.
