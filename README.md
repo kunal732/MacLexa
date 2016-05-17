@@ -1,7 +1,8 @@
 # MacLexa
+![Alt text](http://i.imgur.com/BzSViXy.png "MacLexa System Tray Expanded")
 ## About the Project
 I was debating on buying an Echo, but then I learned Amazon has an Alexa Voice Service SDK. So I decided to build an Alexa App which lives in the Mac System Tray and can be accessed at any time by pressing and holding the Option key when speaking commands. 
-![Alt text](http://i.imgur.com/BzSViXy.png "MacLexa System Tray Expanded")
+
 ___
 
 ##Benefits of this app vs the Amazon Echo
