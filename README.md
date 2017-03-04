@@ -15,7 +15,7 @@ ___
 ---
 ##Getting Started
 ###Just want the Binary?
-Skip all the instructions below. Clone the repo and run the app in the Binary Folder. I believe you still [need an Alexa account](alexa.amazon.com).
+Skip all the instructions below. Clone the repo and run the app in the Binary Folder. I believe you still [need an Alexa account](https://alexa.amazon.com).
 
 ###Amazon Developer Account
 1. Create an account at developer.amazon.com
